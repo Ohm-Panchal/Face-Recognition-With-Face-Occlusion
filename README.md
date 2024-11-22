@@ -74,7 +74,7 @@ Modify `config.py` to customize settings:
 ---
 
 ## Authors
-Developed by the project team. For any queries or issues, contact [your_email@example.com].
+Developed by the project team. For any queries or issues, contact [ohmpanchal99@gmail.com].
 
 ## Results
 ![image](https://github.com/Ohm-Panchal/Face-Recognition-With-Face-Occlusion/blob/main/results/res1.jpg)
