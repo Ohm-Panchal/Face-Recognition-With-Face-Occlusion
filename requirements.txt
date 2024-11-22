@@ -4,3 +4,4 @@ numpy
 dlib
 face_recognition
 imutils
+setuptools
